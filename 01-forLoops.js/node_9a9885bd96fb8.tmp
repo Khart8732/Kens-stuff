@@ -1,0 +1,5 @@
+number = 50; sum=0;
+
+   for (i = 1; number <= number; ++i){
+       console.log(number[i]);
+   }
